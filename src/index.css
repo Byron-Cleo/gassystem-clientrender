@@ -1,0 +1,41 @@
+
+.icon-space {
+  margin-right: 0.5rem;
+}
+
+.style-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.tools {
+  margin-left: 0 !important;
+}
+
+.gas-legend {
+  margin: 20px;
+  width: 155px;
+  font-size: 1rem;
+}
+
+.my-fieldset {
+  border: 2px dotted red;
+  padding: 2rem;
+}
+
+.strong-font-size {
+  font-size: 1.2em;
+  color: rgb(199, 88, 14);
+}
+
+.table-heading {
+  font-size: 1em;
+  color: rgb(192, 102, 43);
+}
+
+.header-full {
+  left: 0px;
+}
+.dash-app-full {
+  margin-left: 0px;
+}
